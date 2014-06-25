@@ -11,5 +11,8 @@ package pe.edu.upeu.torres.modelo;
  * @author alum.fial7
  */
 public class Distrito {
-    
+    private int idd;
+    private int idr;
+    private String discs;
+    private String estado;
 }
